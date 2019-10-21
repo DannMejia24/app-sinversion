@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">D-Cloud</string>
+    <string name="usuario">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="check">Recuerdame</string>
+    <string name="boton1">INICIAR SESIÓN</string>
+    <string name="link1">Olvide mi contraseña</string>
+    <string name="link2">¿NO TIENES CUENTA?</string>
+    <string name="titulo1">Registrate con tu email</string>
+    <string name="nom">Nombre</string>
+    <string name="correo">Correo</string>
+    <string name="pass2">Confirmacion de contraseña</string>
+    <string name="titulo2">Fecha de nacimiento</string>
+    <string name="dia">dia</string>
+    <string name="mes">mes</string>
+    <string name="año">año</string>
+    <string name="check1">Hombre</string>
+    <string name="check2">Mujer</string>
+    <string name="terminos">Acepto términos y condiciones</string>
+    <string name="reg">REGISTRAR</string>
+    <string name="ini">INICIO</string>
+</resources>
